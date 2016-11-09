@@ -1,0 +1,2 @@
+Aqui hay cierta informacion. 
+Almacenada en un archivo de texto.
